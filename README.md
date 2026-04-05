@@ -1,4 +1,4 @@
-# ENGR 13300 Final Project - F1 Telemetry Visualizer
+# ENGR 13300 Final Project - F1 Telemetry Visualizer 
 A Python-based data analysis tool that ingests raw Formula 1 CSV lap data to compare the performance of McLaren drivers Lando Norris and Oscar Piastri. The script cleans the data, calculates averages, and generates comparative visualizations.
 
 **F1 Telemetry Analyzer**
